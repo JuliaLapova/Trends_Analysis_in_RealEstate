@@ -80,7 +80,7 @@ Number of messages in each quarter:
 ## Подход с попыткой составления биграмм и триграмм различными способами для выявления наиболее часто встречающихся биграмм/триграмм
 https://colab.research.google.com/drive/1iUsTnS8hMm6A4TD7c1ADYabfG2D8yyRj?usp=sharing
 
-## Подход с попытной извлечения ключевых фраз состоящих из пяти слов
+## Подход с попыткой извлечения ключевых фраз состоящих из пяти слов
 https://colab.research.google.com/drive/1jHeqE-EVpyDgwAbsVE463JwmETNIeP0p?usp=sharing
 
 Здесь пробуем выделть ключевые слова с помощью функции extract_key_phrases, которая извлекает ключевые фразы (n-граммы) из входного текста, используя модель BERT. Вот что она делает по шагам:
