@@ -109,6 +109,12 @@ https://colab.research.google.com/drive/1jHeqE-EVpyDgwAbsVE463JwmETNIeP0p?usp=sh
 - key_phrases_3
 ![image](https://github.com/user-attachments/assets/f2521cdb-cd8c-493f-ac71-3a27d26fd478)
 
+## Дополнительная подготовка датасета
+- Уберем из датасета сообщения, в которых менее 20 и более 400 слов
+- Добавим в датасет информацию о длинне сообщения
+- Добавим поле msg_id с номером строки, это пригодится в дальнейшей работе
+
+Сохраняем датасет в файле df_lemmatized_no_short_msg.xlsx и дальше работаем с этим файлом
 
 # Далее попробуем кластеризовать сообщения и саммаризовать кластера с использованием LLM "gpt-3.5-turbo"
 
@@ -178,5 +184,8 @@ https://colab.research.google.com/drive/1XECYIrPcWxpN7F5gHEzV88p8t7pbajBS?usp=sh
 
 Выведем таблицу с 5 кластерами наиболее увеличившимися в проценте доли от общего количества
 ![image](https://github.com/user-attachments/assets/d2892854-4033-4d18-980b-8efa689b98b4)
+
+
+
 
 
