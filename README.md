@@ -110,6 +110,7 @@ https://colab.research.google.com/drive/1jHeqE-EVpyDgwAbsVE463JwmETNIeP0p?usp=sh
 ![image](https://github.com/user-attachments/assets/f2521cdb-cd8c-493f-ac71-3a27d26fd478)
 
 ## Дополнительная подготовка датасета
+Код содержится в ноутбуке: https://drive.google.com/file/d/1OSdDF26ywso9snsPK01UfSj919zWJB8u/view?usp=sharing
 - Уберем из датасета сообщения, в которых менее 20 и более 400 слов
 - Добавим в датасет информацию о длинне сообщения
 - Добавим поле msg_id с номером строки, это пригодится в дальнейшей работе
