@@ -187,6 +187,14 @@ https://colab.research.google.com/drive/1XECYIrPcWxpN7F5gHEzV88p8t7pbajBS?usp=sh
 ![image](https://github.com/user-attachments/assets/d2892854-4033-4d18-980b-8efa689b98b4)
 
 
+## Расчитаем сравнение поочередно всех кварталов для 50 кластеров.
+- Также здесь добавлена визуализациия кластеров, после сокращения размерности CVD матриц до 2 главных компонент.
+![image](https://github.com/user-attachments/assets/ba476de9-e50d-4497-97a3-246a98d7f012)
+![image](https://github.com/user-attachments/assets/85f46496-2230-4e9c-bd0f-4b3b9cde7ad4)
+
+
+- Также произведена попытка определить оптимальное количество кластеров с помощью метода локтя. Но это не дало результата, так как на графике не видно локтя.
+  ![image](https://github.com/user-attachments/assets/894e43af-4c89-4f70-a50e-5a432dc11378)
 
 
 
