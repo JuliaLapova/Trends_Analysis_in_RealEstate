@@ -193,5 +193,39 @@ https://colab.research.google.com/drive/1XECYIrPcWxpN7F5gHEzV88p8t7pbajBS?usp=sh
 ![image](https://github.com/user-attachments/assets/85f46496-2230-4e9c-bd0f-4b3b9cde7ad4)
 
 
+# Дальнейший анализ с использованием более продвинутых алгоритмов
+ссылка на ноутбук:
+https://drive.google.com/file/d/1w8DU4SicPtSikVTgQ7OgiZFv9s_aw3ty/view?usp=sharing
+
+Расчет эмбеддингов с моделью Bert
+
+Кластеризация с помошью алгоритма DBSCAN
+![image](https://github.com/user-attachments/assets/9430c7e7-e6df-4ec7-a74f-99c99cc2d96e)
+
+Получилось всего 140 кластеров. Самый большой это -1 кластер - выбросы.
+![image](https://github.com/user-attachments/assets/2657b5a2-1288-4f93-8de9-17f0608835cd)
+
+Побъединяем кластера и смотрим TF-IDF слова внутри кластера:
+![image](https://github.com/user-attachments/assets/15c3d723-1faf-478a-ba56-21064b0a25e9)
+
+Топ 15 кластеров
+![image](https://github.com/user-attachments/assets/2dfd3ddd-6c74-410b-96e9-8d19861e0cea)
+
+Сравнение тем по кварталам:
+![image](https://github.com/user-attachments/assets/f16378cb-09c0-4976-b75e-bb34106a1612)
+![image](https://github.com/user-attachments/assets/bca5f239-bc05-4255-8056-8ccca860fbf7)
+![image](https://github.com/user-attachments/assets/2537e4d3-154b-4543-b253-ebc77a806ab2)
+![image](https://github.com/user-attachments/assets/319f6063-1476-47bc-96cb-1914ecb8ca71)
+![image](https://github.com/user-attachments/assets/293d961e-d470-4dcc-9f79-4da7314cff7c)
+![image](https://github.com/user-attachments/assets/83e26825-c081-45b8-92c2-2df43e7912ab)
+
+Более наглядно можно представить изменение размера кластеров в динамике по кварталам и по месяцам:
+
+![image](https://github.com/user-attachments/assets/89a64d8d-f857-4d4a-b57d-2ae42fa838cc)
+![image](https://github.com/user-attachments/assets/5e0e9549-54b9-497e-8044-bd51217f0c72)
+
+
+
+
 
 
