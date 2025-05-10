@@ -212,7 +212,7 @@ https://drive.google.com/file/d/1w8DU4SicPtSikVTgQ7OgiZFv9s_aw3ty/view?usp=shari
 ![image](https://github.com/user-attachments/assets/2dfd3ddd-6c74-410b-96e9-8d19861e0cea)
 
 Сравнение тем по кварталам:
-![image](https://github.com/user-attachments/assets/f16378cb-09c0-4976-b75e-bb34106a1612)
+![image](https://github.com/user-attachments/assets/f233bcf9-4cae-459e-a856-dc36febe8a2d)
 ![image](https://github.com/user-attachments/assets/bca5f239-bc05-4255-8056-8ccca860fbf7)
 ![image](https://github.com/user-attachments/assets/2537e4d3-154b-4543-b253-ebc77a806ab2)
 ![image](https://github.com/user-attachments/assets/319f6063-1476-47bc-96cb-1914ecb8ca71)
@@ -222,6 +222,7 @@ https://drive.google.com/file/d/1w8DU4SicPtSikVTgQ7OgiZFv9s_aw3ty/view?usp=shari
 Более наглядно можно представить изменение размера кластеров в динамике по кварталам и по месяцам:
 
 ![image](https://github.com/user-attachments/assets/89a64d8d-f857-4d4a-b57d-2ae42fa838cc)
+
 ![image](https://github.com/user-attachments/assets/5e0e9549-54b9-497e-8044-bd51217f0c72)
 
 
